@@ -1,1 +1,2 @@
-A non-empty README
+A non-empty README 
+Made some changes
